@@ -6,6 +6,7 @@ verify_ssl = true
 [dev-packages]
 
 [packages]
+ortools= "==7.8.7959"
 
 [requires]
 python_version = "3.8"
